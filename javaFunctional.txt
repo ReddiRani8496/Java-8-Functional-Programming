@@ -1,0 +1,38 @@
+Functional Interface:
+====================
+An interface contains only one method is called functional interface.
+We can have multiple default methods inside the functional interface.
+
+anonymous blocks:
+================
+a block without any name is called anonymous blocks.
+we can declare anonymous blocks at class level and method level.
+If we declare a anonymous blocks at class level, then it is executed everytime we create object.
+anonymous block will be the starting statement of every constructor.
+
+Method Reference:
+================
+Method reference is used to refer static methods, even constructors we can refer using new operator.
+
+constructor reference:
+----------------------
+Student s = className::new; // calling constructor
+
+Anonymous object:
+================
+
+If we want to use object reference only once, then go for anonymous object.
+
+new clasName();
+
+
+outer class access modifiers:
+============================
+public, default
+
+inner class access modifiers:
+============================
+public, private, default, protected
+
+
+
