@@ -1,0 +1,25 @@
+        Functional Programming                          OOPs
+
+1. It emphasizes on evaluation of functions.        1. It is based on concept of objects.
+
+2. It uses immutable data.                          2. It uses mutable data.
+   Ex: add(10,20) always returns 30
+
+3. Follows declarative Programming model.           3. Follows imperative programming model.
+
+4. Parallel programming is supported by the         4. Object oriented programming doesn't support
+    Functional programming.                             Parallel programming.
+
+5. Statements can be executed in any order.         5. Statements can be executed in particular order.
+
+6. Recursion is used for iterative data.            6. Loops are used for iterative data.
+
+7. The basic elements of functional programming     7. The basic elements of object oriented
+   are variables and functions.                         programming are objects and methods.
+
+8. Functional programming is used only              8. Object oriented programming is used
+    when there are few things with                      when there are many things with few operations.
+    more operations.
+  Ex: Multiplex                                       Ex: Normal Theaters
+
+  

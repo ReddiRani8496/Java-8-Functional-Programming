@@ -1,0 +1,14 @@
+1. imperative programming : OOPs, procedure oriented, java  & python(OOPs+procedure+functional), 
+                            C++(OOPs + procedure)
+
+2. declarative programming : functional programming
+
+Using both programming paradigms we can achieve solution to the problem.
+The only difference is one paradigm will take more time but effecient and vice versa.
+Based on the requirement we can choose the paradigm.
+
+Ex: sugar can be produced by organic and non-organic methods.
+    If we follow organic method: more cost, healthy
+    If we follow non-organic method : less cost, not healthy
+
+In similar manner programming paradigm depends.    
