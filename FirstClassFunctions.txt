@@ -1,0 +1,7 @@
+A function is called a first class function if it fulfills the following requirements.
+
+It can be passed as a parameter to a function.
+
+It can be returned from a function.
+
+It can be assigned to a variable and then can be used later.    
